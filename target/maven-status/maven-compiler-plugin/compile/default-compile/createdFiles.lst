@@ -1,0 +1,11 @@
+cadastro\model\Usuario.class
+cadastro\util\FacesMessages.class
+cadastro\repository\Perfis.class
+cadastro\util\Transacional.class
+cadastro\util\EntityManagerProducer.class
+cadastro\controller\GestaoUsuariosBean.class
+cadastro\service\CadastroUsuarioService.class
+cadastro\controller\PerfilConverter.class
+cadastro\repository\Usuarios.class
+cadastro\util\TransacionalInterceptor.class
+cadastro\model\Perfil.class
